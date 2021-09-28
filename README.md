@@ -47,7 +47,7 @@ AD
 ```
 **Explanation**
 
-Split *s* into *n/k = 9/3 = 3* equal parts of length *k = 3*. Convert each *ti* to *ui* by removing any subsequent occurrences of non-distinct characters in *ti*:
+Split *s* into *n/k = 9/3 = 3* equal parts of length *k = 3*. Convert each *ti* to *ui* by removing any subsequent occurrences of non-distinct characters in *ti*:  
 1- *t0 = "AAB" --> u0 = "AB"*  
 2- *t1 = "CAA" --> u1 = "CA"*  
 3- *t2 = "ADA" --> u2 = "AD"*
